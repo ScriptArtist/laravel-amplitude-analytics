@@ -1,5 +1,5 @@
 {
-    "name": "hashcode7/laravel-amplitude-analytics",
+    "name": "ScriptArtist/laravel-amplitude-analytics",
     "description": "A Laravel package to work with Amplitude.",
     "keywords": [
         "laravel",
@@ -7,7 +7,7 @@
         "package",
         "php"
     ],
-    "homepage": "https://github.com/hashcode7/laravel-amplitude-analytics",
+    "homepage": "https://github.com/ScriptArtist/laravel-amplitude-analytics",
     "license": "MIT",
     "type": "library",
     "authors": [
